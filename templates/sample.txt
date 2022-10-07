@@ -1,0 +1,9 @@
+127.0.0.1       www.facebook.com
+127.0.0.1       www.friv.com
+127.0.0.1       www.y8.com
+127.0.0.1       www.roblox.com
+127.0.0.1       www.discord.com
+127.0.0.1       twitter.com
+127.0.0.1       www.pornhub.com
+127.0.0.1       www.xvideos.com
+127.0.0.1       m.facebook.com
