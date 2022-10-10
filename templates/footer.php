@@ -1,11 +1,16 @@
 <?php
+
     $cur_dir = explode('\\', getcwd());
     $loc = $cur_dir[count($cur_dir)-1];
     if($loc == "problems"){
     $dir_loc = "../";
+    }else if($loc == "it306"){
+    $dir_loc = "../";
     }else{
     $dir_loc = "";
     } 
+
+
 ?>
 
 <div class="footer">
