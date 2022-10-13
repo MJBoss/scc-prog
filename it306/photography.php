@@ -195,7 +195,11 @@ figcaption {
       <img src="images/rivmount.jpg" alt="dragonfly" style="width: 50%;">
       <figcaption>“The Tetons and the Snake River,” by Ansel Adams.</figcaption>
 
-      
+      <div class="textbox">
+        <ul> 
+        <li><a href="shutter.php"> NEXT >> Shutter Speed</a></li> 
+        </ul>
+    </div>
       
     </div>
     <!-- <div class="card">
